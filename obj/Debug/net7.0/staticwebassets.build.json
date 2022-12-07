@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0ccw88BaGGHEGa9aSQMCq8+7f6x7aypRdZGLsoki2lw=",
+  "Source": "DotNet7_CRUD",
+  "BasePath": "_content/DotNet7_CRUD",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
